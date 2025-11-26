@@ -1,0 +1,5 @@
+{
+  "name": "CryptoQuant Daily",
+  "description": "A client-side digital asset tracker with daily automated collection, statistical analysis, interactive visualization, and Gemini-powered insights.",
+  "requestFramePermissions": []
+}
